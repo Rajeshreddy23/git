@@ -1,0 +1,19 @@
+.head{
+    text-align: center;
+}
+.para{
+    border: 10px solid mediumvioletred;
+    padding: 1em;
+    text-align: justify;
+    margin: 0 auto;
+    width: 736px;
+    height: 1000px;
+    background-color: moccasin;
+    background-image: url(https://i.pinimg.com/736x/e6/f8/fd/e6f8fd4df4ec71213e912075edaeec99.jpg);
+    background-size: 256px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+
+    /* background: moccasin url(https://i.pinimg.com/736x/e6/f8/fd/e6f8fd4df4ec71213e912075edaeec99.jpg) no-repeat center top; */
+}
